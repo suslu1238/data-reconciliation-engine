@@ -1,0 +1,190 @@
+{
+  "seed": 42,
+  "size": 1000,
+  "missing_from_target": [
+    "7ce4770e-32b7-3d80-8f2e-08d37b1dbca3",
+    "55fcf991-33c4-17d5-450a-b36df9be07f3",
+    "b3e4110a-45f5-0c52-2e2f-bf77076979d6",
+    "1bac27a7-b386-f7a4-c991-603f28c13091",
+    "b66edbf4-a0ea-0251-4957-43a281b13b80",
+    "1287e313-8f02-6c2c-1b41-49998198d1f5",
+    "c7ecfe71-d493-47fc-0fc9-8d2e030f9be9",
+    "e6e8790b-215d-3b1f-a8cd-f44d7b742440",
+    "86341718-2ba6-adb3-7afe-b1149561c813",
+    "f3579560-71d7-9665-7181-8dcf379efc6e",
+    "7d137018-680b-ac63-b856-d0353dc98290",
+    "2518ec09-efdd-6a87-c8c6-21bee1228e75",
+    "7d1b695e-71a0-449d-d703-262fb5cbe3f5",
+    "604e46cb-3712-f2d1-87cd-b6a1bf012e32",
+    "d488edff-dc35-2577-5193-412d6906d118",
+    "6789e7d0-a155-eb2c-737c-f8b563561add",
+    "82456fb4-4ab7-706e-b773-50caeec259dc",
+    "ff01cf99-988c-24c9-61b1-cd2262801c45",
+    "6d2ccf42-271a-919f-92a9-7acd3d884938"
+  ],
+  "orphan_in_target": [
+    "eb8466e4-c5fa-e047-6f66-9013869d4cb7",
+    "f2307c22-30c7-809b-3401-55bdb6ac1c8e",
+    "999f0691-34e4-20bf-db38-f3066e6a3d5b",
+    "255c82c7-cade-e3ec-6895-09082e2cb850",
+    "953922c0-5ea0-942c-3f91-c419e846a9df",
+    "afd58fe7-65c6-2548-b169-fdedf9723977",
+    "0f0a6450-8e97-8ce1-1864-3b6a12b3c5eb",
+    "abb8fe95-f077-671b-9b3b-5b4cff2a50c0",
+    "5ef361c2-abd7-d3f1-650a-d9aafa3f012e",
+    "ee29e80e-7e2a-c03a-80f5-8b812b7c5ee3"
+  ],
+  "cell_discrepancies": [
+    {
+      "transaction_id": "39ed0800-3179-79f9-29ed-e760233408ba",
+      "column": "status"
+    },
+    {
+      "transaction_id": "235fc3d5-2224-a806-ce07-2a5273edb223",
+      "column": "status"
+    },
+    {
+      "transaction_id": "9a069295-3b8d-3447-0e61-065f171b1b80",
+      "column": "status"
+    },
+    {
+      "transaction_id": "18e19331-1dba-1267-7e1c-a5a1fef518a6",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "f48f709c-49a2-2441-0ac4-de854a5b1aff",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "d664d264-4c6e-27ff-b9de-7a3a486822b9",
+      "column": "status"
+    },
+    {
+      "transaction_id": "b8e19f56-8787-ea21-0448-2a220308aa5e",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "4eea04e7-0ab5-4bde-20a0-45026e068097",
+      "column": "status"
+    },
+    {
+      "transaction_id": "deef580f-9c07-a751-1437-45092cd1586a",
+      "column": "status"
+    },
+    {
+      "transaction_id": "349b5089-2733-5670-b3ad-a2ba797209c0",
+      "column": "status"
+    },
+    {
+      "transaction_id": "29ee29f4-49e3-eb48-7147-f758cdbe5548",
+      "column": "status"
+    },
+    {
+      "transaction_id": "7892d145-12d2-d7e6-387d-5adde43081aa",
+      "column": "status"
+    },
+    {
+      "transaction_id": "711c7673-8535-1a69-dabf-984e53ff8461",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "84222f58-f022-54af-fb76-4637d277ab64",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "c66dceb3-4494-5e09-1d3c-a5a4929d6377",
+      "column": "status"
+    },
+    {
+      "transaction_id": "9ffda1e7-4052-e3a5-66fd-32156a107fb7",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "cc21cbdb-fb8f-e8c4-d8b4-8ead93608edf",
+      "column": "status"
+    },
+    {
+      "transaction_id": "765e6cb5-8f0d-5540-0ec7-d662905c7bdd",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "668f5032-6512-5d2e-24b3-bc8e1e850f80",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "d590f435-a3fb-6d0b-f4be-28b44cd7e6f7",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "548e1f6b-69ce-1e4e-19a6-92c90d700ea4",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "7e1f48c4-a9d6-290d-f4ad-fa22ad0205f5",
+      "column": "status"
+    },
+    {
+      "transaction_id": "ab8e77a1-28e6-0130-2d23-8ed17f5d21f2",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "cbf85149-b6da-99cd-d14b-256c67db0943",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "edd97a1a-fa58-5b27-8ce3-e7c3f6eab3a0",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "3dab1614-5215-0ed8-7ddc-a413c05db774",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "a981fa54-f121-e129-b45c-9a545fa3a531",
+      "column": "amount"
+    },
+    {
+      "transaction_id": "9a0f09e9-eb8b-8c11-1fb0-ef34c8497436",
+      "column": "status"
+    },
+    {
+      "transaction_id": "f10013a7-c6de-b2f0-530a-c1c7b8ba8368",
+      "column": "status"
+    }
+  ],
+  "source_duplicates": [
+    "c08bd674-d2dd-3e26-8fb3-a134ff2336e9",
+    "c3d6cd54-8623-bc74-65a2-9cc8c55be95d",
+    "49560c36-8560-9e8a-a7fb-19979d2cd944",
+    "7e1f48c4-a9d6-290d-f4ad-fa22ad0205f5",
+    "06a241af-1d0a-f7f7-f5e4-a4713fe68c9c",
+    "2155fba8-35b8-23e4-2016-8e6d4eb39f63",
+    "7d137018-680b-ac63-b856-d0353dc98290",
+    "5e911b91-61a6-6444-e2af-a6295efb336e",
+    "9feefdff-c566-aa81-b15e-54f6d4d30795",
+    "690e7e62-3432-3ec6-b0c4-a01c69b7c0fa"
+  ],
+  "target_duplicates": [
+    "679f2f42-9256-d707-9cc0-5b67a19b224a",
+    "afd58fe7-65c6-2548-b169-fdedf9723977",
+    "8639bd41-8b15-bd94-a42d-0cd7fd359f6a",
+    "7bd7b4bf-8e0e-abb7-8f20-c5e75ec646eb",
+    "c9df301e-8ef0-0de1-fb4f-19725115d7ee",
+    "1ff49b78-8946-3e85-759c-de66bacfb3d0",
+    "991965ea-98d0-0c2c-17d3-0f328de1596c",
+    "e21342b0-f1ee-dba3-1343-2e611ca3c448",
+    "3fac4317-16e8-27b0-c552-f3c55f13fb98"
+  ],
+  "malformed_in_source": [
+    "4b657bcc-b041-6f19-bbe7-18354e8bf78a",
+    "cb2cc805-d140-3430-567e-642e052dfb9a",
+    "44719067-e5de-f08e-5a4b-4fdb5209eaab",
+    "e0b55615-d3b6-ef1b-74f7-6d09739cafa5",
+    "12e89d10-2871-1733-8bed-db12ad77e82f",
+    "5e4cb287-0442-51db-d0d4-ea6779928faa",
+    "716fda0a-45a8-8829-14e2-86e5ac8936bc",
+    "14780c9d-d503-0b43-e3c7-ca9aedabddab",
+    "5d8416e0-60e6-96ff-a757-43f9606cc2f5",
+    "6e66a273-c4ca-00d7-8a66-de6724d4d5a3"
+  ]
+}
