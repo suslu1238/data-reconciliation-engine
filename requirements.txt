@@ -1,0 +1,6 @@
+duckdb==0.10.3
+pandas==2.2.2
+pydantic==2.7.1
+faker==25.2.0
+pytest==8.2.0
+pytest-cov==5.0.0
